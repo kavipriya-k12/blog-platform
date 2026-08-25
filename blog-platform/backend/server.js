@@ -13,7 +13,7 @@ const app = express();
 
 const allowedOrigins = [
     "http://localhost:5173",
-    "https://blog-platform-sage-one.vercel.app"
+    "https://blog-platform-delta-one.vercel.app"
 ];
 
 app.use(cors({
